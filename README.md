@@ -1,2 +1,2 @@
 # horrortale-the-game-gct
--_-
+Horrortale-the-Game
